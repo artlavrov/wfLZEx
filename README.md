@@ -1,6 +1,8 @@
 wfLZEx
 ======
 
+This is the fork of https://github.com/meh2481/wfLZEx
+
 Simple compression/decompression program for a friend that uses wflz to strip PNG images out of .anb archives.
 Designed to work with archive files from DuckTales: Remastered, but for all I know it'll work with other WayForward games as well.
 
